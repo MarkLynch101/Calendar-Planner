@@ -1,0 +1,8 @@
+.CurrentTimeBar {
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    border: 1px solid #FAB7B7;
+    margin-top: 180px;
+}
+

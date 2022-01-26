@@ -1,0 +1,11 @@
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #BCBCBC;
+    opacity: 1; /* Firefox */
+  }
+.search {
+    color:#BCBCBC;
+    font-size: 15px;
+    padding: 7px 40px 7px 12px;
+    border-radius: 5px;
+    border: 1px solid #BCBCBC;
+}

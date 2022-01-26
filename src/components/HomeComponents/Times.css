@@ -1,0 +1,16 @@
+.times ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+
+    color:#BCBCBC;
+    font-weight: 500;
+
+    background: white;
+    margin-top: 42px;
+}
+
+.times li {
+    margin-bottom: 58px;
+}

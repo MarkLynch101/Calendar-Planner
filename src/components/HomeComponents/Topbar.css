@@ -1,0 +1,93 @@
+* {
+    user-select: none;
+}
+/* Month Date Section */
+.topbar {
+    /* position: absolute; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+}
+.month-date {
+    margin: 10px 0 0 180px;
+}
+.month {
+    font-size: 60px;
+    font-weight: 100;
+    color:#BCBCBC
+}
+
+.date {
+    color:#BCBCBC;
+    font-weight: 300;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 75px;
+}
+
+.cal {
+    font-size: 25px;
+}
+
+/* Calendar display */
+.calDisplay {
+    position: absolute;
+    top:120px;
+    z-index: 998;
+    width: 30rem;
+    color: #9F9F9F;
+    /* background: red;
+    border: 10px solid green; */
+}
+.sdp {
+    --theme-color: #3DA7E3;
+    background:white;
+    border: .5px solid #9F9F9F;
+    box-shadow: 0 0 10px #3DA7E3;
+}
+    /* Set visibility of calendar*/
+.dNone {
+    display: none;
+}
+
+.dShow {
+    display: block;
+}
+/* calendar display end */
+/* Month Date Section END */
+
+/* Tools section */
+.tools {
+    display: flex;
+    align-items: center;
+    margin-right: 40px;
+}
+.add {
+    display: flex;
+    align-items: center;
+
+    background: #3DA7E3;
+    color:white;
+    padding: 7px 25px;
+    border: none;
+    border-radius: 5px;
+    
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.plus{
+    margin-left:10px;
+    font-size: 20px;
+}
+
+.filter {
+    color:#BCBCBC;
+    font-size: 24px;
+    margin: 20px;
+}
+/* Tools section END*/
+

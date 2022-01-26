@@ -1,0 +1,26 @@
+.sobox {
+    border-radius: 15px;
+    border: 1px solid #bcbcbc;
+    box-shadow: 0 0 10px 5px #bcbcbc;
+    padding: 20px;
+    width: 200px;
+    height: 25px;
+    position: relative;
+    margin-top: 1.5em;
+    left: 7em;
+  }
+  
+  .sotext {
+      position: center;
+      margin: -0.5em 2.3em;
+      color: #3da7e3;
+      text-decoration: underline;
+  }
+  
+  .sotext:hover {
+      position: center;
+      margin: -0.5em 2.3em;
+      color: red;
+      text-decoration: underline;
+  }
+  

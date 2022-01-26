@@ -1,0 +1,7 @@
+
+/* Displays containers side by side */
+.home {
+    display: flex;
+    margin: 30px 0 75px 200px;
+    width: 200rem;
+}

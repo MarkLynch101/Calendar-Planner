@@ -1,0 +1,46 @@
+.box {
+    border-radius: 15px;
+    border: 1px solid #bcbcbc;
+    box-shadow: 0 0 10px 5px #bcbcbc;
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    margin-top: 1.5em;
+    left: 7em;
+
+    
+  }
+  
+  .text {
+      margin: auto;
+      color: #bcbcbc;
+  }
+  
+  .enter-email {
+    border-radius: 15px;
+    border: 1px solid #bcbcbc;
+    color: #cacaca;
+    width: 150px;
+    height: 20px;
+    margin: 0.5em 0.3em;
+  } 
+  
+  .submit-email {
+    border-radius: 15px;
+    border: 1px solid #bcbcbc;
+    color: #3da7e3;
+    width: 153px;
+    height: 25px;
+    margin: 0.5em 0.25em;
+  }
+  
+  .submit-email:hover {
+    border-radius: 15px;
+    border: 1px solid #bcbcbc;
+    color: red;
+    width: 153px;
+    height: 25px;
+    margin: 0.5em 0.25em;
+  }
+  
